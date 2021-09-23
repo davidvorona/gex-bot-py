@@ -1,7 +1,7 @@
 ALL_GEX_TEXT = (
     "Note to self: Don't drink tap water at Jerry Garcia's.",
     "Note to self: Don't step on any brown mushy rocks!",
-    "Note to self: Don't buy rocket sled made by ACME.",
+    "Note to self: Don't buy a rocket sled made by ACME.",
     "Will Cheech and/or Chong, report to the front desk!",
     "Hey! I feel like I'm trapped in Boy George's pants!",
     "And remember kids, never buy a marvolay from a guy with a top hat.",
