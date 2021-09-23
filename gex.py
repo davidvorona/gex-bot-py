@@ -46,4 +46,5 @@ ALL_GEX_TEXT = (
     "That's as much fun as being Mike Tyson's cell-mate on Valentine's Day!",
     "Yeah, this place has all the warmth of a Dick Clark special.",
     "Bob Hope has more color in his cheeks.",
+    "I haven't been this scared since I was trapped in Barry Manilow's rumpus room."
 )
