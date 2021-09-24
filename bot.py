@@ -31,7 +31,6 @@ bot = commands.Bot(command_prefix='!', description=description, intents=intents)
 # Implement common bot events
 #
 
-GEX_CMD = '!gex'
 GEX_MAX_INT = len(ALL_GEX_TEXT) - 1
 
 @bot.event

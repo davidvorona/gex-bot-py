@@ -9,7 +9,7 @@ ALL_GEX_TEXT = (
     "Ahh to see the world as Keith Richards does...",
     "Brought to you by up-Chuck Jones.",
     "What are you, Larry King's barber? Ha! Ha! You're alright!",
-    "Carrot Top, is that you?"
+    "Carrot Top, is that you?",
     "Reminds me of Halloween at Rip Taylor's.",
     "This place is bigger than Drew Carey's bar tab.",
     "Man, Hef has let his place go.",
@@ -26,7 +26,7 @@ ALL_GEX_TEXT = (
     "I'll take 'Places I Can Burn To Death' for $100, Alex.",
     "The difference between this and Hades is that there's no Kathy Lee Gifford.",
     "And this is just one of the forty thousand rooms in Aaron Spelling's house!",
-    "I haven't seen blasts like this since taco night at James Earl Jones' house."
+    "I haven't seen blasts like this since taco night at James Earl Jones' house.",
     "I'm lost in Dick Dale's colon.",
     "Hmm, reminds me of Jackie Chan's bathroom.",
     "Captain, they are a bizarre alien race that find Adam Sandler funny.",
