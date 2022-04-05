@@ -25,7 +25,7 @@ description = "This bot reminds me of playing Scrabble at Lenny Kravitz's summer
 # use default Discord intents
 intents = discord.Intents.default()
 # create bot with parameters
-bot = commands.Bot(command_prefix='!', description=description, intents=intents)
+bot = commands.Bot(command_prefix='!', help_command=None, description=description, intents=intents)
 
 #
 # Implement common bot events
